@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning (lightweight but standard)
+scikit-learn
+
+# Jupyter / notebooks
+jupyter
+ipykernel
+
+# Data handling & utilities
+pyyaml
+python-dateutil
+tqdm
+
+# Optional but very common
+statsmodels
